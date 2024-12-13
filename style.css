@@ -1,0 +1,100 @@
+
+body {
+    font-family: 'Arial', sans-serif; /* Standardtypsnitt */
+    background-color: #f0f8ff; /* Ljus blå bakgrund (snöig känsla) */
+    color: #2f4f4f; /* Mörk textfärg */
+  }
+  
+  /* Julig stil för rubriker */
+  h1, h2, h3 {
+    font-family: 'Times New Roman', serif; /* Klassisk stil för rubriker */
+    color: #ff0000; /* Röd färg för rubriker */
+    text-align: center;
+    text-shadow: 3px 3px 5px rgba(255, 215, 0, 0.7); /* Guldig skugga */
+  }
+  
+  /* Julig stil för text */
+  p {
+    font-size: 18px;
+    color: #008000; /* Grön färg för text */
+    line-height: 1.6;
+    text-align: center;
+  }
+  
+  /* Julig effekt för knappar */
+  button {
+    background-color: #ff0000; /* Röd bakgrund */
+    color: white;
+    border: 2px solid #ffffff; /* Vit kant */
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #008000; /* Grön bakgrund vid hover */
+    color: #ffffff;
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.7); /* Guldskugga vid hover */
+  }
+ 
+      body {
+        border: 15px solid #ff0000; /* Röd julig border */
+        border-radius: 20px; /* Rundade hörn */
+        box-shadow: 0 0 20px rgba(255, 215, 0, 0.6);
+        font-family: 'Dancing Script', cursive;
+        background-color: #f0f8ff; /* Ljus blå bakgrund (snöig känsla) */
+        color: #2f4f4f; /* Mörk textfärg */
+        text-align: center;
+      }
+      img {
+        box-shadow: 2px 2px 5px rgba(500, 500, 500, 0.2);
+      }
+  
+      /* Julig stil för rubriker */
+      h1, h2, h3 {
+        font-family: 'Dancing Script', cursive;
+        color: #ff0000; /* Röd färg för rubriker */
+        text-shadow: 3px 3px 5px rgba(255, 215, 0, 0.7); /* Guldig skugga */
+      }
+  
+      /* Julig stil för text */
+      p {
+        font-size: 18px;
+        color: #008000; /* Grön färg för text */
+        line-height: 1.6;
+      }
+  
+      /* Julig effekt för knappar */
+      button {
+        background-color: #ff0000; /* Röd bakgrund */
+        color: white;
+        border: 2px solid #ffffff; /* Vit kant */
+        padding: 10px 20px;
+        font-size: 18px;
+        font-weight: bold;
+        border-radius: 8px;
+        cursor: pointer;
+      }
+  
+      button:hover {
+        background-color: #008000; /* Grön bakgrund vid hover */
+        color: #ffffff;
+        box-shadow: 0 0 10px rgba(255, 215, 0, 0.7); /* Guldskugga vid hover */
+      }
+  
+
+
+body {
+    background-image: url('bilder/snö\ skog.jpg');  /* Ange bildens sökväg här */
+    background-size: cover;  /* Gör att bakgrunden täcker hela sidan */
+    background-position: center;  /* Centrerar bakgrunden */
+    background-repeat: no-repeat;  /* Gör att bakgrunden inte upprepas */
+    height: 100vh;  /* Sätter höjden på sidan till 100% av viewport-höjden */
+    margin: 0;  /* Tar bort standardmarginaler */
+}
+
+
+
+ 
